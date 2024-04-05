@@ -12,6 +12,7 @@ model out of all three. The last number that was looked at was the rmse. RMSE is
 the quality of the predictions. It shows how far the predictions fall from the measured true values
 using the Euclidean distance. The LinearRegression model had the lowest number out of all
 three models.
+
 Lastly, I looked at the the Select K Best features for the dataset. These are the features
 that have the biggest impact on the median home price. The features that appear to have the
 biggest impact on the median home price are going to be the number of homes sold, the
@@ -21,6 +22,7 @@ So, even though there has been a raise in mortgage rates, which was supposed to 
 the increase in housing prices, this may not have as large of an effect as previously thought.
 What seems to have the most in common with the sale price, looks like the number of homes on
 the market.
+
 In conclusion, businesses who are in the market to buy homes right now, might want to
 wait a little longer while the market stabilizes, mortgage rates drop, and housing price increases
 slow down. However, for a business that wants to sell homes, this is the perfect time. The
